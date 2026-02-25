@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="RPO-5-KOGT/RPO-5-KOGT.vcxproj" />
+  <Project Path="RPO-5-KOGT/RPO-5-KOGT.vcxproj" Id="7e23b34b-a080-42c6-b9f1-b45df8a604d9" />
 </Solution>
