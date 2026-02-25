@@ -1,6 +1,7 @@
 #include <iostream>
 
 int main() {
+    system("chcp 1251");
     int size;
     std::cout << "¬ведите размер массива: ";
     std::cin >> size;
